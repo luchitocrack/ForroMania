@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "nombre": "Producto 1",
+      "precio": 100.0,
+      "promocion": "si",
+      "imagen": "cel_1.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Producto 2",
+      "precio": 150.0,
+      "promocion": "no",
+      "imagen": "cel_2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Producto 3",
+      "precio": 200.0,
+      "promocion": "si",
+      "imagen": "cel_3.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Producto 4",
+      "precio": 250.0,
+      "promocion": "no",
+      "imagen": "cel_4.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Producto 5",
+      "precio": 300.0,
+      "promocion": "si",
+      "imagen": "cel_5.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Producto 6",
+      "precio": 350.0,
+      "promocion": "no",
+      "imagen": "cel_6.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Producto 7",
+      "precio": 400.0,
+      "promocion": "si",
+      "imagen": "cel_7.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Producto 8",
+      "precio": 450.0,
+      "promocion": "no",
+      "imagen": "cel_8.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Producto 9",
+      "precio": 500.0,
+      "promocion": "si",
+      "imagen": "cel_9.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Producto 10",
+      "precio": 550.0,
+      "promocion": "no",
+      "imagen": "cel_10.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Producto 11",
+      "precio": 600.0,
+      "promocion": "si",
+      "imagen": "cel_11.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Producto 12",
+      "precio": 650.0,
+      "promocion": "no",
+      "imagen": "cel_12.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Producto 13",
+      "precio": 700.0,
+      "promocion": "si",
+      "imagen": "cel_1.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Producto 14",
+      "precio": 750.0,
+      "promocion": "no",
+      "imagen": "cel_2.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Producto 15",
+      "precio": 800.0,
+      "promocion": "si",
+      "imagen": "cel_3.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Producto 16",
+      "precio": 850.0,
+      "promocion": "no",
+      "imagen": "cel_4.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Producto 17",
+      "precio": 900.0,
+      "promocion": "si",
+      "imagen": "cel_5.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Producto 18",
+      "precio": 950.0,
+      "promocion": "no",
+      "imagen": "cel_6.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Producto 19",
+      "precio": 1000.0,
+      "promocion": "si",
+      "imagen": "cel_7.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Producto 20",
+      "precio": 1050.0,
+      "promocion": "no",
+      "imagen": "cel_8.jpg"
+    }
+  ]
+  

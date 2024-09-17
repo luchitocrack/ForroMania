@@ -1,0 +1,62 @@
+/* Estilo para el Navbar */
+.navbar {
+    background-color: #2d3748; /* Color de fondo */
+    color: white; /* Color del texto */
+    position: fixed; /* Fijar el Navbar en la parte superior */
+    top: 0; /* Alineado al borde superior */
+    left: 0; /* Alineado al borde izquierdo */
+    width: 100%; /* Ancho completo */
+    z-index: 50; /* Asegura que esté encima de otros elementos */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    height: 60px; /* Altura fija del Navbar */
+    display: flex;
+    align-items: center; /* Centrar el contenido verticalmente */
+    padding: 0 1rem; /* Espaciado horizontal */
+    box-sizing: border-box; /* Incluye padding y border en el ancho y alto del elemento */
+  }
+  
+  /* Contenedor interno del Navbar */
+  .container {
+    width: 100%;
+    max-width: 1200px; /* Ajusta según el ancho deseado */
+    margin: 0 auto; /* Centra el contenido horizontalmente */
+    display: flex;
+    justify-content: space-between; /* Espacio entre logo y enlaces */
+    align-items: center; /* Alinea verticalmente el logo y los enlaces */
+  }
+  
+  /* Estilo para el logo */
+  .logo {
+    font-size: 1.5rem; /* Tamaño de la fuente del logo */
+    font-weight: bold;
+  }
+  
+  /* Estilo para los enlaces del Navbar */
+  .nav-links {
+    display: flex;
+    list-style: none; /* Quitar puntos de lista */
+    padding: 0; /* Quitar relleno */
+    margin: 0; /* Quitar margen */
+  }
+  
+  .nav-links li {
+    margin-left: 1rem; /* Espaciado entre los enlaces */
+  }
+  
+  .nav-links a {
+    color: white; /* Color del texto */
+    text-decoration: none; /* Quitar subrayado */
+    padding: 0.5rem 1rem; /* Espaciado alrededor del enlace */
+    display: block; /* Asegura que el padding funcione correctamente */
+  }
+  
+  .nav-links a:hover {
+    color: #edf2f7; /* Color del texto en hover */
+  }
+  
+  /* Evitar desplazamiento del contenido */
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  

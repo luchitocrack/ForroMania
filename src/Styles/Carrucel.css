@@ -1,0 +1,49 @@
+/* Contenedor del Carrusel */
+.carrusel-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  max-height: 500px; /* Ajusta según tus necesidades */
+}
+
+/* Contenedor de las Diapositivas */
+.carrusel-slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  width: 100%;
+}
+
+/* Diapositiva del Carrusel */
+.carrusel-slide {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Imagen del Carrusel */
+.carrusel-slide img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Botones de Navegación */
+.carrusel-prev, .carrusel-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 100;
+  border-radius: 50%;
+}
+
+.carrusel-prev {
+  left: 10px;
+}
+
+.carrusel-next {
+  right: 10px;
+}
